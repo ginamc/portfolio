@@ -1,5 +1,5 @@
 ---
 title: Projects
 toc: false
-type: page
+# type: page
 ---
