@@ -8,8 +8,8 @@ menu:
     - name: Projects
       pageRef: /projects
       weight: 1
-    - name: Talks and Articles
-      pageRef: /about#talks-and-articles
+    - name: Pubs and Talks
+      pageRef: /about#pubs-and-talks
       weight: 2
     - name: About
       pageRef: /about
@@ -55,11 +55,11 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
-    width: normal
+    width: wide
 
   page:
     # full (100%), wide (90rem), normal (1280px)
-    width: normal
+    width: wide
 
 markup:
   # allow raw html
