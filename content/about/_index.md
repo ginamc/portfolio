@@ -8,7 +8,7 @@ This is the about page. This is the about page.This is the about page.This is th
 ## Pubs and Talks
 
 {{< cards cols="3" >}}
-  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_" tag="pub">}}
-  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_" tag="pub">}}
-  {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle_" tag="panel">}}
+  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*gtI1VUmhYybA5PYY" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_" tag="pub">}}
+  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tj3XGDpjO9pwZ6Sa" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_" tag="pub">}}
+  {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" image="https://photos.smugmug.com/photos/i-b57gLSQ/0/K4zJpLRTgthjjnGQnpbcfw56ZZw8tcW7Db7X4h7xJ/S/i-b57gLSQ-S.jpg" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle_" tag="panel">}}
 {{< /cards >}}
