@@ -51,6 +51,13 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
+    logo:
+      path: images/logo-150-light.svg
+      dark: images/logo-150-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
 
   footer:
     displayCopyright: true
