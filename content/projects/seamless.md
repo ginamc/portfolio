@@ -9,14 +9,14 @@ sidebar:
 # Seamless App
 <font size="3">
 CONTENT EXPLORATION, HIRING TASK<br>
-Cvent -- Oct. 2021<br>
+Cvent — Oct. 2021<br>
 </font>
 
 ![Seamless.com homepage. The left side includes an image of a salad in a throwaway container, and plastic knife and fork laid beside it. To the right of the image is the heading, "Get food delivery and more" with a search bar below it.](/images/seamless/seamless_hphero.png)
 
 <font size="2">MY ROLE: hiring candidate</font>
 
-This is an exploration done as part of a hiring task. I was asked to analyze an app of my choosing and explore how the microcopy might be improved, and what next steps I would recommend if resources were available.
+<font size="5">This is an exploration done as part of a hiring task. I was asked to analyze an app of my choosing and explore how the microcopy might be improved, and what next steps I would recommend if resources were available.</font>
 
 ## Who uses the app?
 Seamless is used by a wide range of users, from students to executive-level professionals and in between. The attraction of apps like Seamless can be attributed to its position as an “app for everyone.”
