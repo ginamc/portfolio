@@ -4,7 +4,10 @@ toc: true
 type: default 
 breadcrumbs: false
 ---
-<!-- ## Cvent -->
+## Cvent
+{{< cards cols="3" >}}
+  {{< card image="/images/seamless/seamless_hphero.png" link="/ginamc/portfolio/projects/seamless/" tag="content exploration" title="Seamless App Exploration" subtitle="_Hiring task, Cvent, 2021_">}}
+{{< /cards >}}
 
 ## Bootcamps & MOOCs
 {{< cards cols="3" >}}
