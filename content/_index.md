@@ -1,7 +1,7 @@
 ---
-title: My Site
+# title: My Site
 toc: false
-# type: page
+type: default
 ---
 
 You're probably confused. That's ok. The site is a work in progress. Maybe come back another time.
