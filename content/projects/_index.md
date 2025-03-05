@@ -11,5 +11,5 @@ breadcrumbs: false
 
 ## Bootcamps & MOOCs
 {{< cards cols="3" >}}
-  {{< card image="images/projectthumbs/2023_parsons_capstone.png" link="https://docs.google.com/presentation/d/e/2PACX-1vRMfNwcFDYmT6S9r4hL1Sb3VZXJG4mr0aJVafU0fCPKxQFoKxiIof4BpdYozXNTXUcCPVdQkR-zat8z/pub?start=false&loop=false&delayms=5000#slide=id.p" tag="UX" title="NYC High Schools Directory Mobile App" subtitle="_Capstone project, Parsons UX Design Bootcamp, 2022_">}}
+  {{< card image="/images/projectthumbs/2023_parsons_capstone.png" link="https://docs.google.com/presentation/d/e/2PACX-1vRMfNwcFDYmT6S9r4hL1Sb3VZXJG4mr0aJVafU0fCPKxQFoKxiIof4BpdYozXNTXUcCPVdQkR-zat8z/pub?start=false&loop=false&delayms=5000#slide=id.p" tag="UX" title="NYC High Schools Directory Mobile App" subtitle="_Capstone project, Parsons UX Design Bootcamp, 2022_">}}
 {{< /cards >}}
