@@ -32,21 +32,21 @@ When I'm not working, you can find me either engrossed in a book, writing a stor
 {{< /cards >}}
 
 ## Experience
-__Cvent__ <br> Lead Content Designer, UX, 2024-current <br>
+**Cvent** <br> Lead Content Designer, UX, 2024-current <br>
 Senior Content Designer, UX, 2023-2024<br>
 Content Designer II, UX, 2021-2023
 
-__nXu Education__ <br> Marketing Consultant, 2020-2022
+**nXu Education** <br> Marketing Consultant, 2020-2022
 
-__Uncommon Schools__<br>Associate Director, Marketing & Communications, 2018-2021
+**Uncommon Schools** <br>Associate Director, Marketing & Communications, 2018-2021
 
-__Education Week__ <br> Online News Producer, 2012-2016
+**Education Week** <br> Online News Producer, 2012-2016
 
 ## Education & Certifications
 M.A. | New School for Social Research, 2016<br>
 B.A. | University of Maryland - College Park, 2012
 
-__Conversation Design for Chatbots__ | UX Content Collective, 2024<br>
-__OOUX Strategist__ | OOUX Academy, 2023<br>
-__UX Design Foundations__ | Parsons, 2022<br>
-__Front End Web Development__ | Udacity, 2018
+**Conversation Design for Chatbots** | UX Content Collective, 2024<br>
+**OOUX Strategist** | OOUX Academy, 2023<br>
+**UX Design Foundations** | Parsons, 2022<br>
+**Front End Web Development** | Udacity, 2018
