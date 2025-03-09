@@ -6,6 +6,7 @@ breadcrumbs: false
 ---
 ## Cvent
 {{< cards cols="3" >}}
+  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/portfolio/projects/vendormarketplace/" tag="content design" title="Vendor Marketplace:Browse-first Workflow" subtitle="_Cvent, 2023_">}}
   {{< card image="/images/weddingspot/WS_LandingPage.jpg" link="/portfolio/projects/weddingspot/" tag="content audit" title="Wedding Spot: Content Audit" subtitle="_Cvent, 2022_">}}
   {{< card image="/images/seamless/seamless_hphero.png" link="/portfolio/projects/seamless/" tag="content exploration" title="Seamless App Exploration" subtitle="_Hiring task, Cvent, 2021_">}}
 {{< /cards >}}
