@@ -152,6 +152,78 @@ Cvent — Oct. 2021&lt;br&gt;
     
     <item>
       <title></title>
+      <link>http://localhost:1313/ginamc/portfolio/projects/vendormarketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ginamc/portfolio/projects/vendormarketplace/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Vendor Marketplace: Browse-first Workflow&lt;/h1&gt;&lt;font size=&#34;3&#34;&gt;
+CONTENT DESIGN&lt;br&gt;
+Cvent — January-April 2023&lt;br&gt;
+&lt;/font&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/vendormarketplace/VM_LandingPage.jpg&#34; alt=&#34;Vendor Marketplace landing page hero banner crica 2023. The banner greets users and invites them to “Find and source experienced vendors for your event.” The original concept included 3 starting points for users to browse vendors and start a request for information.&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2&#34;&gt;MY ROLE: content designer, strategist, information architect, marketing copywriter&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;Vendor Marketplace is a feature that was built to simplify the way planners source vendors without leaving the Cvent Supplier Network (CSN). It was launched in April 2022.&lt;br&gt;&lt;br&gt;In 2024, Cvent acquired Resposite, which replaced the original Vendor Marketplace concept.&lt;/font&gt;&lt;/p&gt;
+&lt;h2&gt;Problem statement&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;problem-statement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#problem-statement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Guide event planners through a browse-first workflow in Vendor Marketplace so they can effectively source vendors.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secondary objective: Increase visibility of vendors within the marketplace, thereby increasing overall service contracts.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/vendormarketplace/vm-browsefirst-input.gif&#34; title=&#34;Users can begin browsing for vendors by entering a location in the search bar of the Vendor Marketpalce homepage&#34; alt=&#34;Users can begin browsing for vendors by entering a location in the search bar of the Vendor Marketpalce homepage&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Users can begin browsing for vendors by entering a location in the search bar of the Vendor Marketpalce homepage&lt;/figcaption&gt;
+  &lt;/figure&gt;
+‍&lt;/p&gt;
+&lt;h2&gt;Content design strategy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;content-design-strategy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#content-design-strategy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Effective categorization&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;effective-categorization&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#effective-categorization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Consolidate vendors into meaningful categories, thereby reducing redundancies and one-offs&lt;/li&gt;
+&lt;li&gt;Group together the maximum number of relevant vendors within a category for optimal search results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;AUDITING CATEGORIES:&lt;/strong&gt; Using a list of active vendor clients, and a combination of their self-reported categories and Cvent&amp;rsquo;s categories, we consolidated top-level categories into thematic buckets. These categories were (1) broad enough to include a large number of relevant vendors, while (2) being specific enough to ensure inclusion of vendors in those categories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULT:&lt;/strong&gt; We consolidated all vendor services into 20 high-level categories and eliminated the vague &amp;ldquo;other&amp;rdquo; category that would negatively impact event planners&amp;rsquo; ability to effectively search for vendors, and impact vendors&amp;rsquo; visibility in the marketplace.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FUTURE:&lt;/strong&gt; As Vendor Marketplace grows, we will continue to assess the categories and add new ones when appropriate.&lt;/p&gt;
+&lt;h3&gt;Encourage a browse-first workflow&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;encourage-a-browse-first-workflow&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#encourage-a-browse-first-workflow&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;With Vendor Marketplace, planner users can create an RFI (request for information) and source vendors in 1 of 3 ways:&lt;ol&gt;&lt;li&gt;Browse by location. Supports planners who may not have an existing request for proposal (RFP).&lt;/li&gt;&lt;li&gt;Browse with an existing RFP. Supports planners who already have a working proposal from which they want to create an RFI to submit to vendors.&lt;/li&gt;&lt;li&gt;Create an RFI without browsing. Supports planners who want to quickly get their requests started without concern for location.&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/vendormarketplace/VM_3waystostartRFI.gif&#34; title=&#34;In the initial concept, users can source vendors in 1 of 3 ways, including searching by location or using an existing request to quickly attach vendors to that request.&#34; alt=&#34;In the initial concept, users can source vendors in 1 of 3 ways, including searching by location or using an existing request to quickly attach vendors to that request.&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;In the initial concept, users can source vendors in 1 of 3 ways, including searching by location or using an existing request to quickly attach vendors to that request.&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Why browse-first?&lt;/strong&gt;&lt;br&gt;
+To onboard planners to the new vendor sourcing experience, boost wide adoption by planners, and encourage vendors to be listed in the directory for an improved leads management experience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Narrative approach&lt;/strong&gt;&lt;br&gt;
+To encourage browsing, the content was designed with three distinct story lines in mind, or a &amp;ldquo;choose your own adventure.&amp;rdquo; This gives planners clear pathways to move forward on their event planning needs.&lt;/p&gt;
+&lt;p&gt;Planners want to quickly source and move through their planning tasks. Rather than write longwinded narratives about how to browse, we kept the headers short and direct, with an equally direct flavor text to encourage specific action. Three verbs were selected to spur planners into specific action with clear expectations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Browse&amp;rdquo; offers the most flexible sourcing journey. The planner is taken to a guided stepper that walks them through vendor service selection, filling out request details, adding a message to vendors, and sending the RFI.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Start&amp;rdquo; provides a sense of continuation and direct action from a journey that was already started. This acts as a &amp;ldquo;shortcut&amp;rdquo; to creating an RFI as it automatically pulls planner&amp;rsquo;s details from the RFP. Once confirmed, the vendor selection process begins, and planners can send the RFI along with a custom message.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Create&amp;rdquo; gives planners an explicit action, and is the most comprehensive workflow of the three. The sequence of modals asks for basic event details from which the planner is guided through the vendor selection process to submit a completed RFI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/vendormarketplace/VM_LandingePage_Full.png&#34; title=&#34;Landing page of Vendor Marketplace in 2023&#34; alt=&#34;Full landing page of Vendor Marketplace circa 2023&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Landing page of Vendor Marketplace in 2023&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;Lessons learned&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;lessons-learned&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lessons-learned&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Everyone has their own idea of what categories they fall under from client representatives and product managers to the vendors themselves. Everyone also has their own ideas of how to ensure optimal business success for both Cvent and their clients. Balance had to be made in the execution of the design and workflow which required an understanding of information hierarchy, taxonomy, and general search behaviors of people.&lt;/p&gt;
+&lt;p&gt;Another lesson I learned is semantics. Content design is more than just writing for the product. This was my first deep-dive exposure to studying the entire workflow, what expectations needed to be considered, and choosing words and language that conveyed precise meaning for something that—for all intents and purposes—did the same thing: creating an RFI. This project also cemented my collaboration relationship with my product designer. Since this project, we&amp;rsquo;ve gotten pedantic about words, we&amp;rsquo;ve tested workflows through the use of narrative structures, and so much more to get the content design right for our users.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/ginamc/portfolio/projects/weddingspot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
