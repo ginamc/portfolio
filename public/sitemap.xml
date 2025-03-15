@@ -13,5 +13,9 @@
     <loc>http://localhost:1313/ginamc/portfolio/projects/seamless/</loc>
   </url><url>
     <loc>http://localhost:1313/ginamc/portfolio/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/projects/vendormarketplace/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/projects/weddingspot/</loc>
   </url>
 </urlset>
