@@ -18,6 +18,14 @@ Cvent — January-April 2023<br>
 
 <font size="5">Vendor Marketplace is a feature that was built to simplify the way planners source vendors without leaving the Cvent Supplier Network (CSN). It was launched in April 2022.<br><br>In 2024, Cvent acquired Resposite, which replaced the original Vendor Marketplace concept.</font>
 
+<p></p>
+<p></p>
+
+<hr>
+
+<p></p>
+<p></p>
+
 ## Problem statement
 **Guide event planners through a browse-first workflow in Vendor Marketplace so they can effectively source vendors.**
 

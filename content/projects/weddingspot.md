@@ -18,6 +18,14 @@ Cvent — April-May 2022<br>
 
 <font size="5">Wedding Spot is a platform owned by Cvent. Couples and wedding planners use it to source wedding venues. It also gives vendors high visibility within a niche industry.</font>
 
+<p></p>
+<p></p>
+
+<hr>
+
+<p></p>
+<p></p>
+
 ## Why a content audit?
 While completing small tasks for the product, I observed inconsistencies in terminology throughout the platform. A product designer was also doing design explorations for a feature from which an audit was beneficial. Because the product itself was relatively small, a full content audit alongside a user flow seemed appropriate.
 
