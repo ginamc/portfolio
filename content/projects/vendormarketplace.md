@@ -5,6 +5,8 @@ toc: true
 type: blog
 sidebar:
     exclude: true
+# prev: /projects/weddingspot
+# next: /projects/weddingspot
 ---
 # Vendor Marketplace: Browse-first Workflow
 <font size="3">
