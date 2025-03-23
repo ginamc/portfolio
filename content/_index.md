@@ -12,14 +12,14 @@ WRITER</font>
 ---
 
 {{< cards cols="2" >}}
-  {{< card link="/portfolio/about/" title="About Gina" icon="emoji-happy">}}
+  {{< card link="/about/" title="About Gina" icon="emoji-happy">}}
   {{< card link="https://wordsbydesign.co/" title="Words by Design" icon="bookmark">}} 
 {{< /cards >}}
 
 ## Project Spotlight
 {{< cards cols="1">}}
-  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/portfolio/projects/vendormarketplace/" title="Vendor Marketplace: Browse-first workflow" subtitle="Exploring vendor browsing behavior, emphasizing browse-first behavior | CONTENT DESIGN, IA | 2023" icon="cursor-click">}}
-  {{< card image="/images/weddingspot/WS_LandingPage.jpg" link="/portfolio/projects/weddingspot/" title="Wedding Spot: Content audit" subtitle="A full content audit of the wedding venue directory | CONTENT AUDIT | 2022" icon="cursor-click">}}
+  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" title="Vendor Marketplace: Browse-first workflow" subtitle="Exploring vendor browsing behavior, emphasizing browse-first behavior | CONTENT DESIGN, IA | 2023" icon="cursor-click">}}
+  {{< card image="/images/weddingspot/WS_LandingPage.jpg" link="/projects/weddingspot/" title="Wedding Spot: Content audit" subtitle="A full content audit of the wedding venue directory | CONTENT AUDIT | 2022" icon="cursor-click">}}
 {{< /cards >}}
 
-<p style="text-align:center;"><a href="/portfolio/projects">All projects >>></a></p>
+<p style="text-align:center;"><a href="/projects">All projects >>></a></p>
