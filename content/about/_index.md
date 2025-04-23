@@ -26,6 +26,7 @@ When I'm not working, you can find me either engrossed in a book, writing a stor
 ## Pubs and Talks
 
 {{< cards cols="3" >}}
+  {{< card image="/images/lavacon2025_Banner.jpg" link="https://www.lavacon.org/lavacon-2025-program/" title="Escalation Exercise: A Content Buy-In Workshop" subtitle="_Facilitator, LavaCon 2025, Oct. 2025_">}}
   {{< card image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*gtI1VUmhYybA5PYY" link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_">}}
   {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tj3XGDpjO9pwZ6Sa" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_">}}
   {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" image="https://photos.smugmug.com/photos/i-RRMpwSS/0/MVVvFfrG6pHvqKSgN4BZdvPhb3hNxV8sNfPNQJj3P/L/i-RRMpwSS-L.png" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle, Sept. 2022_">}}
