@@ -6,7 +6,8 @@ breadcrumbs: false
 ---
 ## Cvent
 {{< cards cols="3" >}}
-  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" tag="content design" title="Vendor Marketplace:Browse-first Workflow" subtitle="_Cvent, 2023_">}}
+  {{< card image="/images/businesstravel/cventbt_mainthumb.png" link="/projects/traveltransient/" tag="text pattern library" title="Travel and Transient: Content Audit and Pattern Alignment" subtitle="_Cvent, 2025_">}}  
+  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" tag="content design" title="Vendor Marketplace: Browse-first Workflow" subtitle="_Cvent, 2023_">}}
   {{< card image="/images/weddingspot/WS_LandingPage.jpg" link="/projects/weddingspot/" tag="content audit" title="Wedding Spot: Content Audit" subtitle="_Cvent, 2022_">}}
   {{< card image="/images/seamless/seamless_hphero.png" link="/projects/seamless/" tag="content exploration" title="Seamless App Exploration" subtitle="_Hiring task, Cvent, 2021_">}}
 {{< /cards >}}
