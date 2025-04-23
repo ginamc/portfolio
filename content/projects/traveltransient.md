@@ -3,7 +3,7 @@
 linkTitle: Travel and Transient
 toc: true
 type: blog
-draft: true
+draft: false
 sidebar:
     exclude: true
 ---
@@ -30,28 +30,45 @@ Cvent — July 2024-January 2025<br>
 
 ## The problem
 
-Travel and Transient is a complex software product that provides for two user groups: demand (corporations, program managers, etc.) and supply (hotels, etc.). While each user group engages with the software in their specific ways, the platform is identical in most--if not all--instances. Both groups interact with one another through a process that includes a form and other communication steps required to secure a service contract.
+Travel and Transient is a software service that provides for two user groups:
+1. Program managers and corporations (demand)
+2. Hotels (supply)
 
-In addition to the two user groups, the product itself has various stages that the users interact with. As a result, the designers regularly have multiple design files open for reference to ensure visual and textual consistency while they work. This is not optimal and efficient.
+Both user groups interact with each other via the software. The platform for both the demand and supply users are mostly the same, however, there are some nuances where the language is targeted for the respective groups.
 
-To better support the team, I identified priority product areas with them and did a combination text audit and consolidation project. The audit checked for inconsistencies and things to fix. The consolidation put the difference views of demand-supplier groups side-by-side in a more accessible way to make the overall design process easier.
+In addition to designing for our user groups, the product itself consists of multiple stages that result in multiple design files. The designers regularly have these files open for reference but hunting the right tab in Figma had a negative impact in overal design efficiency.
+
+To better support the team, I prioritized product areas, audited the text patterns, and created a text library to simplify content referencing. The audit checked for inconsistencies and termniology use, as well as errors that needed to be fixed. The consolidation put the content of the user groups side-by-side in a more accessible way to make the overall design process easier.
 
 ![Illustrative example of multiple files for 1 workflow area that needs to be referenced while designing](/images/businesstravel/filethumbs.png "Illustrative example of multiple files that are regularly referenced at any given time.")
 
 ## The approach
 ### Scope the project
 
-The first step was to break the project into smaller, manageable chunks. We did this by identifying sub-level domains within the product itself, including negotiation workflow, setting up a program, searching hotels, etc.
+To make the projet manageable, I broke the project down into smaller chunks that focused on specific areas of the product, including negotiation workflow, setting up a program, searching hotels, etc.
 
 ![Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization.](/images/businesstravel/btaudit_scope.png "Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization. 'Application areas' blurred on purpose due to potential priopriety details.")
 
 ### Audit and text pattern
 
-Once we had the scope down, we began the audit to collect, compare, and contrast.
+Once the scope was set, I audited the workflows to collect, compare, and contrast text patterns.
 
-We first started out collecting screenshots and putting them into a Figjam--taking the text and transferring them to a table. After awhile, I switched over to putting the text into an Excel document for ease of access and readability. It was important that engineers and product managers were also able to access this text library without barriers.
+<!-- We first started out collecting screenshots and putting them into a Figjam--taking the text and transferring them to a table. After awhile, I switched over to putting the text into an Excel document for ease of access and readability. It was important that engineers and product managers were also able to access this text library without barriers. -->
 
 ![Excerpt of a comparison table for one of the workflows.](/images/businesstravel/bt_tablecomparison.png "Excerpt of a comparison table for one of the workflows, done in Figjam.")
 
 ## Final output
+For each product area, I created a spreadsheet with text patterns for both user groups. This provides designers--and whoever else--an easy way to compare and contrast text patterns without worrying about visual design.
 
+![Zoomed-out view of a text pattern library created in Excel. This particular excerpt follows a user worklow, and each column represents a specific aspect of the worklow. The patterns are broken out by section as designed in the respective form that users use.](/images/businesstravel/BTAudit_excerptview.png "zoomed-out view of a text pattern library created in Excel.")
+
+To further help the designers easily access all the patterns I created for them, I created a "resource helper" component in Figma that they can pull into their files. The helper component lists all the text pattern files so they don't have to tab out of Figma to look for it.
+
+![Resource helper component I designed to aggregate all text pattern library files into 1 place](/images/businesstravel/resourcehelper_bt.png "Resource helper component I designed to aggregate all text pattern library files into 1 place")
+
+## Lessons learned
+This was one of the more complex projects I've done. By default, we tend to work in Figma but this project highlighted that we don't always have to work in Figma--in fact, Figma may actually make things more complicated. I've learned to be less averse to using spreadsheets or other tools that are more suited for the job at hand.
+
+I also learned to disconnect the text from the visual designs. Very often, people want to see the whole package but this can be distracting, especially when the focus needs to be on the text itself. It took the product designers some convincing to look at the text alone but once they saw how much easier it was to compare text between the user groups, we were able to audit and create these resources a lot faster.
+
+The files I created for this team continue to be used to this day. The designers regularly update the files themselves with updated text as needed. The resource component itself has been adapted on other teams for their use.
