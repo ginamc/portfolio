@@ -3,6 +3,7 @@
 linkTitle: Wedding Spot
 toc: true
 type: blog
+draft: true
 sidebar:
     exclude: true
 ---
