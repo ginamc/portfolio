@@ -8,12 +8,12 @@ menu:
     # - name: Projects
     #   pageRef: /projects
     #   weight: 1
-    - name: Pubs and Talks
-      pageRef: /about#pubs-and-talks
-      weight: 2
-    - name: About
-      pageRef: /about
-      weight: 1
+    # - name: Pubs and Talks
+    #   pageRef: /about#pubs-and-talks
+    #   weight: 2
+    # - name: About
+    #   pageRef: /about
+    #   weight: 1
     # - name: Search
     #   weight: 4
     #   params:
@@ -28,6 +28,11 @@ menu:
       url: "https://wordsbydesign.co"
       params:
         icon: bookmark
+    - name: Email
+      weight: 7
+      url: "mailto:gina@wordsbydesign.co"
+      params:
+        icon: mail
   
   # the left sidebar
   # sidebar:
