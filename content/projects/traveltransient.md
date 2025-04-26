@@ -4,6 +4,7 @@ linkTitle: Travel and Transient
 toc: true
 type: blog
 draft: false
+breadcrumbs: false
 sidebar:
     exclude: true
 ---

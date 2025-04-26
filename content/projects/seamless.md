@@ -3,6 +3,7 @@
 linkTitle: Seamless App
 toc: true
 type: blog
+draft: true
 sidebar:
     exclude: true
 ---
