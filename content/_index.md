@@ -26,11 +26,7 @@ WRITER</font>
 {{< /cards >}}
 
 ## About
-I switched careers into UX in late 2021 after a decade of working in marketing-comms in the nonprofit education sector. I started out as an online news producer at a K-12 policy newspaper in Maryland. I managed the paper's website and social media accounts. Over time, I expanded into a "jack of all trades" role, and managed websites, social media, and email marketing for various organizations.
-
-I no longer wanted to be a generalist and found UX. I took my writing and content strategy skills and entered the industry as a content designer. I work closely with product designers, researchers, and product managers to brainstorm and design usable software for the events and hospitality industries.
-
-When I'm not working, you can find me either engrossed in a book, writing a story, walking around the city, or riding my bike Rocinante (from _Don Quixote_ but _The Expanse_ works, too).
+My name is Gina and I'm a UX professional. After a decade of working in the nonprofit education sector as a marketing-communications specialist, I switched careers to UX. I currently work at a for-profit, SaaS company that serves the events and hospitality industries. When I'm not working, you can find me either engrossed in a book, writing a story, walking around the city, or riding my bike Rocinante (from _Don Quixote_ but _The Expanse_ works, too).
 
 <font size="4">**LET'S CONNECT**</font>
 {{< cards cols="3">}}
@@ -48,16 +44,10 @@ When I'm not working, you can find me either engrossed in a book, writing a stor
 {{< /cards >}}
 
 ## Experience
-<!--GINA TO DO: ADD LOGOS OF PLACES, REMOVE SPECIFICS-->
-**Cvent** <br> Lead Content Designer, UX, 2024-current <br>
-Senior Content Designer, UX, 2023-2024<br>
-Content Designer II, UX, 2021-2023
-
-**nXu Education** <br> Marketing Consultant, 2020-2022
-
-**Uncommon Schools** <br>Associate Director, Marketing & Communications, 2018-2021
-
-**Education Week** <br> Online News Producer, 2012-2016
+**Cvent**, UX<br>
+**nXu Education**, Marketing<br>
+**Uncommon Schools**, Marketing and communications<br>
+**Education Week**, Online news production
 
 ## Education & Certifications
 M.A. | New School for Social Research<br>
