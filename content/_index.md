@@ -44,10 +44,10 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Experience
-**Cvent**, UX<br>
-**nXu Education**, Marketing<br>
-**Uncommon Schools**, Marketing and communications<br>
-**Education Week**, Online news production
+**Cvent**, UX, since 2021<br>
+**nXu Education**, Marketing, 2020-2022<br>
+**Uncommon Schools**, Marketing and communications, 2018-2021<br>
+**Education Week**, Online news production, 2012-2016
 
 ## Education & Certifications
 M.A. | New School for Social Research<br>
