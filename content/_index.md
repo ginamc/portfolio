@@ -36,11 +36,11 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
-{{< cards cols="3" >}}
-  {{< card image="/images/lavacon2025_Banner.jpg" link="https://www.lavacon.org/lavacon-2025-program/" title="Escalation Exercise: A Content Buy-In Workshop" subtitle="_Facilitator, LavaCon 2025, Oct. 2025_">}}
-  {{< card image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*gtI1VUmhYybA5PYY" link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_">}}
-  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" image="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tj3XGDpjO9pwZ6Sa" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_">}}
-  {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" image="https://photos.smugmug.com/photos/i-RRMpwSS/0/MVVvFfrG6pHvqKSgN4BZdvPhb3hNxV8sNfPNQJj3P/L/i-RRMpwSS-L.png" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle, Sept. 2022_">}}
+{{< cards cols="1" >}}
+  {{< card link="https://www.lavacon.org/lavacon-2025-program/" title="Escalation Exercise: A Content Buy-In Workshop" subtitle="_Facilitator, LavaCon 2025, Oct. 2025_" icon="document">}}
+  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_" icon="medium">}}
+  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_" icon="medium">}}
+  {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle, Sept. 2022_" icon="youtube">}}
 {{< /cards >}}
 
 ## Experience
@@ -50,8 +50,8 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 **Education Week**, Online news production, 2012-2016
 
 ## Education & Certifications
-M.A., New School for Social Research<br>
-B.A., University of Maryland - College Park
+**M.A., Sociology**, New School for Social Research<br>
+**B.A., Journalism**, University of Maryland - College Park
 
 **Conversation Design for Chatbots**, UX Content Collective, 2024<br>
 **OOUX Strategist**, OOUX Academy, 2023<br>
