@@ -2,7 +2,7 @@
 title: Projects
 toc: true
 type: default 
-breadcrumbs: false
+breadcrumbs: true
 ---
 {{< cards cols="3">}}
   {{< card image="/images/businesstravel/cventbt_mainthumb.png" link="/projects/traveltransient/" title="Content and terminology audit" subtitle="Cvent | 2025" icon="cursor-click">}}
