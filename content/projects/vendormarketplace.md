@@ -3,6 +3,8 @@
 linkTitle: Vendor Marketplace
 toc: true
 type: blog
+draft: false
+breadcrumbs: true
 sidebar:
     exclude: true
 # prev: /projects/weddingspot
