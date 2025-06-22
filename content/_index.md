@@ -36,12 +36,10 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
-{{< cards cols="1" >}}
-  {{< card link="https://www.lavacon.org/lavacon-2025-program/" title="Escalation Exercise: A Content Buy-In Workshop" subtitle="_Facilitator, LavaCon 2025, Oct. 2025_" icon="document">}}
-  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0" title="How a Content Designer Collaborates in Figma" subtitle="_Bootcamp (syndicated), Dec. 2024_" icon="medium">}}
-  {{< card link="https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c" title="How a Content Designer Collaborates With a Product Designer" subtitle="_Bootcamp (syndicated), Sept. 2023_" icon="medium">}}
-  {{< card link="https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux" title="Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX" subtitle="_Content Strategy Seattle, Sept. 2022_" icon="youtube">}}
-{{< /cards >}}
+{{<icon "user-group">}}[Escalation Exercise: A Content Buy-In Workshop](https://www.lavacon.org/lavacon-2025-program/), _LavaCon, 2025_<br>
+{{<icon "medium">}}[How a Content Designer Collaborates in Figma](https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0), _Bootcamp (synidcated), Dec. 2024_<br>
+{{<icon "medium">}}[How a Content Designer Collaborates With a Product Designer](https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c), _Bootcamp (syndicated), Sep. 2023_<br>
+{{<icon "youtube">}}[Object-Oriented UX: Discussion With Content Strategists Leveraging OOUX](https://www.contentstrategyseattle.org/events/object-oriented-ux-a-discussion-with-content-strategists-leveraging-ooux), _Content Strategy Seattle, Sep. 2022_
 
 ## Experience
 **Cvent**, UX, since 2021<br>
