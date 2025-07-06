@@ -51,7 +51,7 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 **M.A., Sociology**, New School for Social Research<br>
 **B.A., Journalism**, University of Maryland - College Park
 
-**Conversation Design for Chatbots**, UX Content Collective, 2024<br>
-**OOUX Strategist**, OOUX Academy, 2023<br>
-**UX Design Foundations**, Parsons, 2022<br>
-**Front End Web Development**, Udacity, 2018
+**Conversation Design for Chatbots**, UX Content Collective<br>
+**OOUX Strategist**, OOUX Academy<br>
+**UX Design Foundations**, Parsons<br>
+**Front End Web Development**, Udacity
