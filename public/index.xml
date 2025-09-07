@@ -15,6 +15,125 @@
     
     <item>
       <title></title>
+      <link>http://localhost:1313/ginamc/portfolio/projects/conversationdesigntemplate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ginamc/portfolio/projects/conversationdesigntemplate/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Chatbot Conversation Design&lt;/h1&gt;&lt;font size=&#34;3&#34;&gt;
+CONVERSATION DESIGN, AI, PATTERN LIBRARY&lt;br&gt;
+Cvent — June - September 2024&lt;br&gt;
+&lt;/font&gt;
+&lt;font size=&#34;2&#34;&gt;My role: conversation designer, pattern designer, content strategist&lt;/font&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/cventbt_mainthumb.png&#34; alt=&#34;Hero banner (2025) of cvent.com’s business travel solutions page. Page visitors are greeted with text that says “Cvent Transient: Where travel buyers source.” Below that is text that highlights the key points of the business travel solution. Next to the text is a form for users to fill out and schedule a demo. Below the text and form is a short video with a quick glance of what the product offers.&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;Cvent was looking for ways to enhance product experience with the introduction of AI and chatbots in some key product areas. This project aimed to set the foundation for how to design chatbots and conversation design more broadly, and support designers in creating mocks for stakeholder presentations. This then became the blueprint for UX&amp;rsquo;s AI chatbot pattern library.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;The problem&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-problem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-problem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;With increased interest in providing AI experiences, we needed a way to provide our product designers with a ready-made pattern from which to build chatbot interfaces. Up until this point, individual product teams were building the interfaces and experiences independent of each other resulting in a variety of solutions and approaches that lacked continuity across the product experience and Cvent branding.&lt;/p&gt;
+&lt;h2&gt;The approach&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-approach&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We can&amp;rsquo;t design for the actual chatbot conversation, especially when we use LLMs instead of a direct script; however, we still want to be able to design the concept with a plausible conversation between a chatbot and its user. I wanted to provide a template with just enough conversation elements that covered as many flows as possible to give product and content designers a starting point for their designs.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; To achieve this, I needed to understand the goals for the chatbot, and the primary problem areas we wanted to solve with the chatbot.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3&gt;Workshops&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;workshops&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#workshops&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Workshop 1: Product Managers, Client Services, Sales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;workshop-1-product-managers-client-services-sales&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#workshop-1-product-managers-client-services-sales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;With this group, I wanted to understand the business objectives, how we talk about about Attendee Hub, and what kind of help attendee users typically seek out. We discussed information categories that should be prioritized within the chatbot, and which categories were considered secondary or tertiary to the chatbot&amp;rsquo;s purpose. This allowed us to map the different conversation flows&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; and to prioritize the chatbot&amp;rsquo;s primary function.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_wkshp1.png&#34; alt=&#34;Possible topics for each conversation flow.&#34; loading=&#34;lazy&#34; /&gt;
+&lt;small&gt;&lt;em&gt;(Grouped topics for each conversation flow.)&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Workshop Summary&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hello flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Set expectations for the chatbot can do&lt;/li&gt;&lt;li&gt;Greet the user&lt;/li&gt;&lt;li&gt;Help first-time and returning users navigate the event app.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Primary flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Event logistics: WiFi passwords, accessing on-demand recordings, etc.&lt;/li&gt;&lt;li&gt;Exhibitors and sessions: Overviews of event schedules, quickly modifing session schedules, and connecting with others.&lt;/li&gt;&lt;/li&gt; Information and schedule: Help with registration, messaging, and accessing event features.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Secondary flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Low-hanging fruit tasks the chatbot can reasonably do with high success rates&lt;/li&gt;&lt;li&gt;Venue details: providing directions to the venue and other details&lt;/li&gt;&lt;li&gt;Generalized support: FAQs where appropriate&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Catch-all&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;System errors&lt;/li&gt;&lt;li&gt;Connectivity issues&lt;/li&gt;&lt;li&gt;Session rules: Room or session capacity notices, associated fees, etc.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Goodbye&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Feedback surveys: Collect attendee feedback quickly&lt;/li&gt;&lt;li&gt;Communicate with planners&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Workshop 2: UX Designers&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;workshop-2-ux-designers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#workshop-2-ux-designers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;With this group, I wanted to explore how information would be presented in a chatbot interface. We also discussed information categories but looked at it from an experiential perspective, namely, what&amp;rsquo;s the best format to present certain types of information? How can we appropriately build engagement opportunities? How can we best support our users without introducing cruft and unnecessary interactions that might make the chatbot unusable?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_wkshp2.png&#34; alt=&#34;Possible experiences for each conversation flow.&#34; loading=&#34;lazy&#34; /&gt;
+&lt;small&gt;&lt;em&gt;(Grouped topics and experiences for each conversation flow.)&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Workshop Summary&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hello flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Set expectations for the chatbot can do&lt;/li&gt;&lt;li&gt;Greet the user&lt;/li&gt;&lt;li&gt;Help first-time and returning users navigate the event app.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Primary flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Event logistics: WiFi passwords, accessing on-demand recordings, etc.&lt;/li&gt;&lt;li&gt;Exhibitors and sessions: Overviews of event schedules, quickly modifing session schedules, and connecting with others.&lt;/li&gt;&lt;/li&gt; Information and schedule: Help with registration, messaging, and accessing event features.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Secondary flow&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Low-hanging fruit tasks the chatbot can reasonably do with high success rates&lt;/li&gt;&lt;li&gt;Venue details: providing directions to the venue and other details&lt;/li&gt;&lt;li&gt;Generalized support: FAQs where appropriate&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Catch-all&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;System errors&lt;/li&gt;&lt;li&gt;Connectivity issues&lt;/li&gt;&lt;li&gt;Session rules: Room or session capacity notices, associated fees, etc.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Goodbye&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;ul&gt;&lt;li&gt;Feedback surveys: Collect attendee feedback quickly&lt;/li&gt;&lt;li&gt;Communicate with planners&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Design: Conversation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;design-conversation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#design-conversation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Design: Chatbot interface&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;design-chatbot-interface&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#design-chatbot-interface&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Final output&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;final-output&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#final-output&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Chatbot pattern library&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;chatbot-pattern-library&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#chatbot-pattern-library&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Conversational design guidelines&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conversational-design-guidelines&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#conversational-design-guidelines&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Script writing templates, etc.&lt;/p&gt;
+&lt;h2&gt;Lessons learned&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;lessons-learned&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lessons-learned&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I applied learnings from UX Content Collective&amp;rsquo;s &lt;a href=&#34;https://uxcontent.com/conversation-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conversation Design for Chatbots&lt;/a&gt; course.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The project was completed as part of an exploration to support attendee users of &lt;a href=&#34;https://www.cvent.com/en/event-marketing-management/attendee-hub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attendee Hub&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Conversation designs have a foundation of 5 flows: (1) Hello flows greet the user and sets interaction expectations, (2) Primary flow consists of the main objective of the interface, (3) Secondary flow consits of elements that may not be as important as the primary but can still be considered within reasonable scope of the interface, (4) Catch-all and Error consists of scenarios that are absolutely not in the scope of the interface, as well as all error handling situations, and (5) Goodbye flow ends the conversation, either by directing the user to a human agent for additional support or closing the conversation because the initial problem was resolved.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/ginamc/portfolio/projects/traveltransient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -26,8 +145,8 @@
 CONTENT DESIGN, CONTENT AUDIT, TEXT PATTERN LIBRARY&lt;br&gt;
 Cvent — July 2024-January 2025&lt;br&gt;
 &lt;/font&gt;
+&lt;font size=&#34;2&#34;&gt;My role: content designer, strategist, auditor&lt;/font&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/cventbt_mainthumb.png&#34; alt=&#34;Hero banner (2025) of cvent.com’s business travel solutions page. Page visitors are greeted with text that says “Cvent Transient: Where travel buyers source.” Below that is text that highlights the key points of the business travel solution. Next to the text is a form for users to fill out and schedule a demo. Below the text and form is a short video with a quick glance of what the product offers.&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;2&#34;&gt;MY ROLE: content designer, strategist, auditor&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Cvent Transient is a platform for corporate program managers to source venues and create travel programs for their employees or corporate clients.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -93,8 +212,8 @@ Cvent — July 2024-January 2025&lt;br&gt;
 CONTENT DESIGN&lt;br&gt;
 Cvent — January-April 2023&lt;br&gt;
 &lt;/font&gt;
+&lt;font size=&#34;2&#34;&gt;M role: content designer, strategist, information architect, marketing copywriter&lt;/font&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/vendormarketplace/VM_LandingPage.jpg&#34; alt=&#34;Vendor Marketplace landing page hero banner crica 2023. The banner greets users and invites them to “Find and source experienced vendors for your event.” The original concept included 3 starting points for users to browse vendors and start a request for information.&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;2&#34;&gt;MY ROLE: content designer, strategist, information architect, marketing copywriter&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Vendor Marketplace is a feature that was built to simplify the way planners source vendors without leaving the Cvent Supplier Network (CSN). It was launched in April 2022.&lt;br&gt;&lt;br&gt;In 2024, Cvent acquired Resposite, which replaced the original Vendor Marketplace concept.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -170,8 +289,8 @@ To encourage browsing, the content was designed with three distinct story lines 
 CONTENT AUDIT&lt;br&gt;
 Cvent — April-May 2022&lt;br&gt;
 &lt;/font&gt;
+&lt;font size=&#34;2&#34;&gt;My role: content auditor, strategist&lt;/font&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_LandingPage.jpg&#34; alt=&#34;Wedding Spot home page hero banner. The home page has a rotating carousel of wedding venues. Overlaid on the image is a header saying “Find your perfect Venue” and a search bar below it. Below the search bar is an image caption with information about the spotlighted venue.&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;2&#34;&gt;MY ROLE: content auditor, strategist&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Wedding Spot is a platform owned by Cvent. Couples and wedding planners use it to source wedding venues. It also gives vendors high visibility within a niche industry.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
