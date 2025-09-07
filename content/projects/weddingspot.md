@@ -12,10 +12,9 @@ sidebar:
 CONTENT AUDIT<br>
 Cvent — April-May 2022<br>
 </font>
+<font size="2">My role: content auditor, strategist</font>
 
 ![Wedding Spot home page hero banner. The home page has a rotating carousel of wedding venues. Overlaid on the image is a header saying "Find your perfect Venue" and a search bar below it. Below the search bar is an image caption with information about the spotlighted venue.](/images/weddingspot/WS_LandingPage.jpg)
-
-<font size="2">MY ROLE: content auditor, strategist</font>
 
 <font size="5">Wedding Spot is a platform owned by Cvent. Couples and wedding planners use it to source wedding venues. It also gives vendors high visibility within a niche industry.</font>
 

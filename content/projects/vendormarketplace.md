@@ -13,10 +13,9 @@ sidebar:
 CONTENT DESIGN<br>
 Cvent — January-April 2023<br>
 </font>
+<font size="2">M role: content designer, strategist, information architect, marketing copywriter</font>
 
 ![Vendor Marketplace landing page hero banner crica 2023. The banner greets users and invites them to "Find and source experienced vendors for your event." The original concept included 3 starting points for users to browse vendors and start a request for information.](/images/vendormarketplace/VM_LandingPage.jpg)
-
-<font size="2">MY ROLE: content designer, strategist, information architect, marketing copywriter</font>
 
 <font size="5">Vendor Marketplace is a feature that was built to simplify the way planners source vendors without leaving the Cvent Supplier Network (CSN). It was launched in April 2022.<br><br>In 2024, Cvent acquired Resposite, which replaced the original Vendor Marketplace concept.</font>
 
