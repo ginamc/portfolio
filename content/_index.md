@@ -20,9 +20,9 @@ WRITER</font>
 
 ## Project Spotlight
 {{< cards cols="3">}}
-  {{< card image="/images/businesstravel/cventbt_mainthumb.png" link="/projects/traveltransient/" title="Content and terminology audit" subtitle="Cvent | 2025">}}
-  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" title="Browse-first workflow" subtitle="Cvent | 2023">}}
-  {{< card image="/images/projectthumbs/2023_parsons_capstone.png" link="https://docs.google.com/presentation/d/e/2PACX-1vRMfNwcFDYmT6S9r4hL1Sb3VZXJG4mr0aJVafU0fCPKxQFoKxiIof4BpdYozXNTXUcCPVdQkR-zat8z/pub?start=false&loop=false&delayms=5000#slide=id.p" title="Capstone: NYC High Schools Directory Mobile App" subtitle="Parsons UX Design Bootcamp | 2022">}}
+  {{< card image="/images/businesstravel/cventbt_mainthumb.png" link="/projects/traveltransient/" title="Cvent Travel and Transient" subtitle="Audit ⸱ Terminology Alignment">}}
+  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" title="Cvent Vendor Marketplace" subtitle="Content Design">}}
+  {{< card image="/images/projectthumbs/2023_parsons_capstone.png" link="https://docs.google.com/presentation/d/e/2PACX-1vRMfNwcFDYmT6S9r4hL1Sb3VZXJG4mr0aJVafU0fCPKxQFoKxiIof4BpdYozXNTXUcCPVdQkR-zat8z/pub?start=false&loop=false&delayms=5000#slide=id.p" title="Capstone: NYC High Schools Directory Mobile App" subtitle="Mobile Design">}}
 {{< /cards >}}
 
 ## About
@@ -36,7 +36,6 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
-{{<icon "user-group">}}[Escalation Exercise: A Content Buy-In Workshop](https://www.lavacon.org/lavacon-2025-program/), _LavaCon, 2025_<br>
 {{<icon "microphone">}} Cohesive Prompt Engineering for Non-engineers, _Cvent, internal event, Jul. 2025_<br>
 {{<icon "user-group">}} Workshop: Content-first Design, _Cvent, internal event, Dec. 2024_<br>
 {{<icon "microphone">}} The Content Design Style Guide, _Cvent, internal event, Dec. 2024_<br>
