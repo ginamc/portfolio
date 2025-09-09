@@ -10,10 +10,11 @@ sidebar:
 ---
 # Vendor Marketplace: Browse-first Workflow
 <font size="3">
-CONTENT DESIGN<br>
 Cvent — January-April 2023<br>
+Content Designer ⸱ Strategist ⸱ Auditor
+</font><br>
+<font size="2">CONTENT DESIGN<br></font>
 </font>
-<font size="2">M role: content designer, strategist, information architect, marketing copywriter</font>
 
 ![Vendor Marketplace landing page hero banner crica 2023. The banner greets users and invites them to "Find and source experienced vendors for your event." The original concept included 3 starting points for users to browse vendors and start a request for information.](/images/vendormarketplace/VM_LandingPage.jpg)
 

@@ -9,10 +9,10 @@ sidebar:
 ---
 # Wedding Spot
 <font size="3">
-CONTENT AUDIT<br>
 Cvent — April-May 2022<br>
+Auditor ⸱ Strategist
 </font>
-<font size="2">My role: content auditor, strategist</font>
+<font size="2">CONTENT AUDIT</font>
 
 ![Wedding Spot home page hero banner. The home page has a rotating carousel of wedding venues. Overlaid on the image is a header saying "Find your perfect Venue" and a search bar below it. Below the search bar is an image caption with information about the spotlighted venue.](/images/weddingspot/WS_LandingPage.jpg)
 
