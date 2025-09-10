@@ -3,7 +3,7 @@
 linkTitle: Chatbot Conversation Design
 toc: true
 type: blog
-draft: true
+draft: false
 breadcrumbs: true
 sidebar:
     exclude: true
@@ -11,12 +11,12 @@ sidebar:
 
 # Chatbot Conversation Design
 <font size="3">
-CONVERSATION DESIGN, AI, PATTERN LIBRARY<br>
 Cvent — June - September 2024<br>
+Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist<br>
 </font>
-<font size="2">My role: conversation designer, pattern designer, content strategist</font>
+<font size="2">CONVERSATION DESIGN ⸱ AI ⸱ PATTERN LIBRARY</font>
 
-![Hero banner (2025) of cvent.com's business travel solutions page. Page visitors are greeted with text that says "Cvent Transient: Where travel buyers source." Below that is text that highlights the key points of the business travel solution. Next to the text is a form for users to fill out and schedule a demo. Below the text and form is a short video with a quick glance of what the product offers.](/images/businesstravel/cventbt_mainthumb.png)
+![Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.](/images/convodesign/convodesign_pattern2.png)
 
 <font size="5">Cvent was looking for ways to enhance product experience with the introduction of AI and chatbots in some key product areas. This project aimed to set the foundation for how to design chatbots and conversation design more broadly, and support designers in creating mocks for stakeholder presentations. This then became the blueprint for UX's AI chatbot pattern library.</font>
 
@@ -39,11 +39,11 @@ I facilitated two workshops, and used Figjam to brainstorm and organize informat
 
 |Workshop 1: Product Managers, Client Services, and Sales|
 |:-----|
-|Objective: Understand the business value and needs of a chatbot interface in the product; understand how we talk about about Attendee Hub; understand what kind of help attendee users typically seek.<br><br>We discussed information categories that should be prioritized within the chatbot, and which categories were considered secondary and tertiary to the chatbot's purpose. This allowed us to map the different conversation flows[^3] and to prioritize the chatbot's primary function.<br>![Possible topics for each conversation flow.](/images/convodesign/convodesign_wkshp1.png "Figjam with ideas and topoics from Workshop 1.")|
+|Objective:<ul><li>Understand the business value and needs of a chatbot interface in the product</li><li>Understand how we talk about about Attendee Hub</li><li>Understand what kind of help attendee users typically seek.</li></ul> We discussed information categories that should be prioritized within the chatbot, and which categories were considered secondary and tertiary to the chatbot's purpose. This allowed us to map the different conversation flows[^3] and to prioritize the chatbot's primary function.<br>![Possible topics for each conversation flow.](/images/convodesign/convodesign_wkshp1.png "Figjam with ideas and topoics from Workshop 1.")|
 
 |Workshop 2: UX Designers|
 |:-----|
-|Objective: Explore how information would be presented in a chatbot interface.<br><br>We also discussed information categories but looked at it from an experiential perspective, namely, what's the best format to present certain types of information? How can we appropriately build engagement opportunities? How can we best support our users without introducing cruft and unnecessary interactions that might make the chatbot unusable?<br>![Possible experiences for each conversation flow.](/images/convodesign/convodesign_wkshp2.png "Figjam with ideas and topoics from Workshop 2.")|
+|Objective: <ul><li>Explore how information would be presented in a chatbot interface.</li></ul>We also discussed information categories but looked at it from an experiential perspective, namely, what's the best format to present certain types of information? How can we appropriately build engagement opportunities? How can we best support our users without introducing cruft and unnecessary interactions that might make the chatbot unusable?<br>![Possible experiences for each conversation flow.](/images/convodesign/convodesign_wkshp2.png "Figjam with ideas and topoics from Workshop 2.")|
 
 **WORKSHOP SUMMARY**
 
@@ -76,18 +76,18 @@ To tie it all together, I designed a chatbot prototype using our Design System l
 
 ![Chatbot design iterations](/images/convodesign/convodesign_pattern1.png "Design iterations for the chatbot--determining flow, interaction patterns, and presentation format for information. We explored interaction elements with quick reply buttons, information density, linked information (carousel, list, card, etc.), and so on.")
 
-
 ## Final output
+
 ### Chatbot pattern library
 The design iterations became the basis for our AI pattern library, which has been widely adopted and used by designers across multiple products.
 ![Example of patterning chatbot designs](/images/convodesign/convodesign_pattern2.png "Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.")
 
-The script itself also became a template
-
-### Conversational design guidelines
-Script writing templates, etc.
+### Chatbot script template
+The script I designed for this specific project became a mock template. Teams started using bits and pieces of the script as a way to populate their prototypes rather than trying to come up with their own elaborate conversation. This helped them get their concepts to stakeholders faster to facilitate discussion and decisionmaking for the final product.
+![Returning user flow](/images/convodesign/convodesign_script8.png "Excerpt of the chatbot script. Shows the Hello Flow for returning attendee users.")
 
 ## Lessons learned
+Applying what I learned in the UX Content Collective workshop was an object lesson. Sometimes, when you're given a template at a workshop, it's difficult to assess how and when to use that template in your own work. The template itself is relatively simple and easy to use but I found its application initially difficult. Once I figured out how to organize the conversation flows and had an idea of what pathways to pursue, the template became a lot easier to use--and revealed an important aspect of the project at large. It's easy for us to go straight into designing the interfaces but this project showed very quickly how untenable that approach was. Drafting out the script and, at minimum, 50% of the pathways was critical for helping visualize the UI for the chatbot. Without the script itself, I'm not sure we would've been able to design the chatbot interface pattern as quickly as we did. It also made it easier to discuss how to present certain types of information within the chatbot window.
 
 
 [^1]: I applied learnings from UX Content Collective's [Conversation Design for Chatbots](https://uxcontent.com/conversation-design/) course.
