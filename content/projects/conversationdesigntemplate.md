@@ -1,6 +1,6 @@
 ---
 # title: Conversation Design Template
-linkTitle: Chatbot Conversation Design
+linkTitle: Cvent Assistant
 toc: true
 type: blog
 draft: false
@@ -9,7 +9,7 @@ sidebar:
     exclude: true
 ---
 
-# Chatbot Conversation Design
+# Cvent Assistant
 <font size="3">
 Cvent — June - September 2024<br>
 Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist<br>
