@@ -49,7 +49,7 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 **Uncommon Schools**, Marketing and communications, 2018-2021<br>
 **Education Week**, Online news production, 2012-2016
 
-## Education & Certifications
+## Education and Certifications
 **M.A., Sociology**, New School for Social Research<br>
 **B.A., Journalism**, University of Maryland - College Park
 
