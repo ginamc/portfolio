@@ -11,7 +11,7 @@ sidebar:
 
 # Content Design Style Guide
 <font size="3">
-Cvent — v1 Jul. 2023 - Nov. 2024 | v2 Nov. 2024 - ongoing<br>
+Cvent — v1 Jul. 2023 - Nov. 2024 | v2 Nov. 2024 - 2025<br>
 Architect, Project Manager<br>
 </font>
 <font size="2">CONTENT DESIGN ⸱ DESIGN SYSTEM ⸱ INFORMATION ARCHITECTURE ⸱ PROJECT MANAGEMENT</font><br>
