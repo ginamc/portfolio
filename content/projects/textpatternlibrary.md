@@ -11,7 +11,7 @@ sidebar:
 
 # Text Pattern Library
 <font size="3">
-Cvent — February, 2024 - <br>
+Cvent — Phase 1: Feb. 2024 - Aug. 2025<br>
 Content Architect<br>
 </font>
 <font size="2">CONTENT DESIGN ⸱ DESIGN SYSTEM ⸱ INFORMATION ARCHITECTURE ⸱ TEXT LIBRARY</font><br>
