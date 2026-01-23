@@ -3,7 +3,7 @@
 linkTitle: Vendor Marketplace
 toc: true
 type: blog
-draft: false
+draft: true
 breadcrumbs: true
 sidebar:
     exclude: true
