@@ -31,8 +31,8 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 <font size="4">**LET'S CONNECT**</font>
 {{< cards cols="3">}}
   {{< card link="https://linkedin.com/in/gmcairney" title="LinkedIn" icon="linkedin">}}
-  {{< card link="mailto:gina@wordsbydesign.co" title="Email" icon="mail">}}
   {{< card link="https://wordsbydesign.co/" title="Words by Design" icon="bookmark">}}
+  {{< card link="mailto:gina@wordsbydesign.co" title="Email" icon="mail">}}
 {{< /cards >}}
 
 ## Pubs and Talks
