@@ -36,7 +36,7 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
-{{<icon "presentation-chart-line">}} Using IA to improve enterprise software navigation (poster presentation) _IAC26, Apr. 2026_<br>
+{{<icon "presentation-chart-line">}} Using IA to improve enterprise software navigation (poster presentation), _IAC26, Apr. 2026_<br>
 {{<icon "microphone">}} Cohesive Prompt Engineering for Non-engineers, _Cvent, internal event, Jul. 2025_<br>
 {{<icon "user-group">}} Workshop: Content-first Design, _Cvent, internal event, Dec. 2024_<br>
 {{<icon "microphone">}} The Content Design Style Guide, _Cvent, internal event, Dec. 2024_<br>
