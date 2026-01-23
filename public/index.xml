@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gina c. – </title>
-    <link>http://localhost:33293/ginamc/portfolio/</link>
+    <link>http://localhost:1313/ginamc/portfolio/</link>
     <description>Recent content on gina c.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:33293/ginamc/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/ginamc/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:33293/ginamc/portfolio/projects/conversationdesigntemplate/</link>
+      <link>http://localhost:1313/ginamc/portfolio/projects/conversationdesigntemplate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33293/ginamc/portfolio/projects/conversationdesigntemplate/</guid>
+      <guid>http://localhost:1313/ginamc/portfolio/projects/conversationdesigntemplate/</guid>
       <description>
         
         
@@ -27,7 +27,7 @@ Cvent — June - September 2024&lt;br&gt;
 Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist&lt;br&gt;
 &lt;/font&gt;
 &lt;font size=&#34;2&#34;&gt;CONVERSATION DESIGN ⸱ AI ⸱ PATTERN LIBRARY&lt;/font&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_pattern2.png&#34; alt=&#34;Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_pattern2.png&#34; alt=&#34;Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Cvent was looking for ways to enhance product experience with the introduction of AI and chatbots in some key product areas. This project aimed to set the foundation for how to design chatbots and conversation design more broadly, and support designers in creating mocks for stakeholder presentations. This then became the blueprint for UX&amp;rsquo;s AI chatbot pattern library.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -49,7 +49,7 @@ Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist&lt;br&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Objective:&lt;ul&gt;&lt;li&gt;Understand the business value and needs of a chatbot interface in the product&lt;/li&gt;&lt;li&gt;Understand how we talk about about Attendee Hub&lt;/li&gt;&lt;li&gt;Understand what kind of help attendee users typically seek.&lt;/li&gt;&lt;/ul&gt; We discussed information categories that should be prioritized within the chatbot, and which categories were considered secondary and tertiary to the chatbot&amp;rsquo;s purpose. This allowed us to map the different conversation flows&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; and to prioritize the chatbot&amp;rsquo;s primary function.&lt;br&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_wkshp1.png&#34; title=&#34;Figjam with ideas and topoics from Workshop 1.&#34; alt=&#34;Possible topics for each conversation flow.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_wkshp1.png&#34; title=&#34;Figjam with ideas and topoics from Workshop 1.&#34; alt=&#34;Possible topics for each conversation flow.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Figjam with ideas and topoics from Workshop 1.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -64,7 +64,7 @@ Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist&lt;br&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Objective: &lt;ul&gt;&lt;li&gt;Explore how information would be presented in a chatbot interface.&lt;/li&gt;&lt;/ul&gt;We also discussed information categories but looked at it from an experiential perspective, namely, what&amp;rsquo;s the best format to present certain types of information? How can we appropriately build engagement opportunities? How can we best support our users without introducing cruft and unnecessary interactions that might make the chatbot unusable?&lt;br&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_wkshp2.png&#34; title=&#34;Figjam with ideas and topoics from Workshop 2.&#34; alt=&#34;Possible experiences for each conversation flow.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_wkshp2.png&#34; title=&#34;Figjam with ideas and topoics from Workshop 2.&#34; alt=&#34;Possible experiences for each conversation flow.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Figjam with ideas and topoics from Workshop 2.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -109,49 +109,49 @@ Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist&lt;br&gt;
 &lt;/table&gt;
 &lt;h3&gt;Design: Conversation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;design-conversation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#design-conversation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script1.png&#34; title=&#34;Excerpt of chatbot script flow.&#34; alt=&#34;Part of the Hello flow script&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script1.png&#34; title=&#34;Excerpt of chatbot script flow.&#34; alt=&#34;Part of the Hello flow script&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Excerpt of chatbot script flow.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;To create the script flow, I used the template provided by UXCC in its &lt;em&gt;Conversation Design for Chatbots&lt;/em&gt; course&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Before jumping into drafting the mock conversation flows, I did preliminary work to establish scope and set expectations for what this chatbot should do once built and deployed.&lt;/p&gt;
 &lt;p&gt;In steps 1-3, we determined which elements to include in our chatbot, and mapped out the primary actions, secondary actions, and catch-all and error handling actions. We also outlined the voice and tone of the chatbot. Doing this before designing the conversation allowed us to stay on track and stay aligned with the group.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script3.png&#34; title=&#34;Identifying the actions our chatbot can do. This also acted as a task list to make sure we covered everything that was agreed to during the workshops.&#34; alt=&#34;Bot actions&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script3.png&#34; title=&#34;Identifying the actions our chatbot can do. This also acted as a task list to make sure we covered everything that was agreed to during the workshops.&#34; alt=&#34;Bot actions&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Identifying the actions our chatbot can do. This also acted as a task list to make sure we covered everything that was agreed to during the workshops.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;I then created tabs for as many known flows as we might have&amp;ndash;though, because this was meant to be a template, it is not a total representation of a &amp;ldquo;complete&amp;rdquo; script flow. We just needed enough for designers to use to create plausible prototypes to present to stakeholders without going through the laborious effort of drafting a script each and every time they wanted to design a chatbot experience.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script4a.png&#34; title=&#34;First bit of the tabs with different conversation flows.&#34; alt=&#34;Flow tabs (1a)&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script4a.png&#34; title=&#34;First bit of the tabs with different conversation flows.&#34; alt=&#34;Flow tabs (1a)&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;First bit of the tabs with different conversation flows.&lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script4b.png&#34; title=&#34;Second bit of the tabs with different conversation flows.&#34; alt=&#34;Flow tabs (1b)&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script4b.png&#34; title=&#34;Second bit of the tabs with different conversation flows.&#34; alt=&#34;Flow tabs (1b)&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Second bit of the tabs with different conversation flows.&lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script5.png&#34; title=&#34;FAQ conversation flow. Includes notes that this isn&amp;#39;t exhaustive but the general pattern can be reused as needed for other FAQ objects.&#34; alt=&#34;Conversation flow for FAQ&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script5.png&#34; title=&#34;FAQ conversation flow. Includes notes that this isn&amp;#39;t exhaustive but the general pattern can be reused as needed for other FAQ objects.&#34; alt=&#34;Conversation flow for FAQ&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;FAQ conversation flow. Includes notes that this isn&amp;#39;t exhaustive but the general pattern can be reused as needed for other FAQ objects.&lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script6.png&#34; title=&#34;Excerpt from an error-handling flow.&#34; alt=&#34;Error handling flow&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script6.png&#34; title=&#34;Excerpt from an error-handling flow.&#34; alt=&#34;Error handling flow&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Excerpt from an error-handling flow.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Design: Chatbot interface&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;design-chatbot-interface&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#design-chatbot-interface&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To tie it all together, I designed a chatbot prototype using our Design System library. I explored key elements, including button iterations and how best to present certain types of information (e.g., FAQs, session details, maps, etc.).&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_pattern1.png&#34; title=&#34;Design iterations for the chatbot--determining flow, interaction patterns, and presentation format for information. We explored interaction elements with quick reply buttons, information density, linked information (carousel, list, card, etc.), and so on.&#34; alt=&#34;Chatbot design iterations&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_pattern1.png&#34; title=&#34;Design iterations for the chatbot--determining flow, interaction patterns, and presentation format for information. We explored interaction elements with quick reply buttons, information density, linked information (carousel, list, card, etc.), and so on.&#34; alt=&#34;Chatbot design iterations&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Design iterations for the chatbot--determining flow, interaction patterns, and presentation format for information. We explored interaction elements with quick reply buttons, information density, linked information (carousel, list, card, etc.), and so on.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Final output&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;final-output&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#final-output&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Chatbot pattern library&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;chatbot-pattern-library&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#chatbot-pattern-library&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The design iterations became the basis for our AI pattern library, which has been widely adopted and used by designers across multiple products.
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_pattern2.png&#34; title=&#34;Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.&#34; alt=&#34;Example of patterning chatbot designs&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_pattern2.png&#34; title=&#34;Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.&#34; alt=&#34;Example of patterning chatbot designs&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Example of how the design iterations became the foundation for our AI pattern library. The skeleton of the chatbot was designed such that it can be adapted for a variety of uses, from standard conversation to generating content for social media, etc.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Chatbot script template&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;chatbot-script-template&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#chatbot-script-template&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The script I designed for this specific project became a mock template. Teams started using bits and pieces of the script as a way to populate their prototypes rather than trying to come up with their own elaborate conversation. This helped them get their concepts to stakeholders faster to facilitate discussion and decisionmaking for the final product.
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/convodesign/convodesign_script8.png&#34; title=&#34;Excerpt of the chatbot script. Shows the Hello Flow for returning attendee users.&#34; alt=&#34;Returning user flow&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/convodesign/convodesign_script8.png&#34; title=&#34;Excerpt of the chatbot script. Shows the Hello Flow for returning attendee users.&#34; alt=&#34;Returning user flow&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Excerpt of the chatbot script. Shows the Hello Flow for returning attendee users.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Lessons learned&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;lessons-learned&#34;&gt;&lt;/span&gt;
@@ -176,10 +176,10 @@ Conversation Designer ⸱ Pattern Designer ⸱ Content Strategist&lt;br&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:33293/ginamc/portfolio/projects/traveltransient/</link>
+      <link>http://localhost:1313/ginamc/portfolio/projects/traveltransient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33293/ginamc/portfolio/projects/traveltransient/</guid>
+      <guid>http://localhost:1313/ginamc/portfolio/projects/traveltransient/</guid>
       <description>
         
         
@@ -188,7 +188,7 @@ Cvent — July 2024-January 2025&lt;br&gt;
 Content Designer ⸱ Strategist ⸱ Auditor
 &lt;/font&gt;&lt;br&gt;
 &lt;font size=&#34;2&#34;&gt;CONTENT AUDIT ⸱ TERMINOLOGY ALIGNMENT ⸱ TEXT PATTERN LIBRARY&lt;br&gt;&lt;/font&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/cventbt_mainthumb.png&#34; alt=&#34;Hero banner (2025) of cvent.com’s business travel solutions page. Page visitors are greeted with text that says “Cvent Transient: Where travel buyers source.” Below that is text that highlights the key points of the business travel solution. Next to the text is a form for users to fill out and schedule a demo. Below the text and form is a short video with a quick glance of what the product offers.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/cventbt_mainthumb.png&#34; alt=&#34;Hero banner (2025) of cvent.com’s business travel solutions page. Page visitors are greeted with text that says “Cvent Transient: Where travel buyers source.” Below that is text that highlights the key points of the business travel solution. Next to the text is a form for users to fill out and schedule a demo. Below the text and form is a short video with a quick glance of what the product offers.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Cvent Transient is a platform for corporate program managers to source venues and create travel programs for their employees or corporate clients.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -205,32 +205,32 @@ Content Designer ⸱ Strategist ⸱ Auditor
 &lt;p&gt;In addition to designing for our user groups, the product itself consists of multiple stages that result in multiple design files. The designers regularly have these files open for reference but hunting the right tab in Figma had a negative impact in overal design efficiency.&lt;/p&gt;
 &lt;p&gt;To better support the team, I prioritized product areas, audited the text patterns, and created a text library to simplify content referencing. The audit checked for inconsistencies and termniology use, as well as errors that needed to be fixed. The consolidation put the content of the user groups side-by-side in a more accessible way to make the overall design process easier.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/filethumbs.png&#34; title=&#34;Illustrative example of multiple files that are regularly referenced at any given time.&#34; alt=&#34;Illustrative example of multiple files for 1 workflow area that needs to be referenced while designing&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/filethumbs.png&#34; title=&#34;Illustrative example of multiple files that are regularly referenced at any given time.&#34; alt=&#34;Illustrative example of multiple files for 1 workflow area that needs to be referenced while designing&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Illustrative example of multiple files that are regularly referenced at any given time.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;The approach&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-approach&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Scope the project&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;scope-the-project&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#scope-the-project&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To make the projet manageable, I broke the project down into smaller chunks that focused on specific areas of the product, including negotiation workflow, setting up a program, searching hotels, etc.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/btaudit_scope.png&#34; title=&#34;Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization. &amp;#39;Application areas&amp;#39; blurred on purpose due to potential priopriety details.&#34; alt=&#34;Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/btaudit_scope.png&#34; title=&#34;Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization. &amp;#39;Application areas&amp;#39; blurred on purpose due to potential priopriety details.&#34; alt=&#34;Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Breaking down the project into smaller scopes. Target areas were color-coded and given a priority level to help with organization. &amp;#39;Application areas&amp;#39; blurred on purpose due to potential priopriety details.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Audit and text pattern&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;audit-and-text-pattern&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#audit-and-text-pattern&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Once the scope was set, I audited the workflows to collect, compare, and contrast text patterns.&lt;/p&gt;
 &lt;!-- We first started out collecting screenshots and putting them into a Figjam--taking the text and transferring them to a table. After awhile, I switched over to putting the text into an Excel document for ease of access and readability. It was important that engineers and product managers were also able to access this text library without barriers. --&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/bt_tablecomparison.png&#34; title=&#34;Excerpt of a comparison table for one of the workflows, done in Figjam.&#34; alt=&#34;Excerpt of a comparison table for one of the workflows.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/bt_tablecomparison.png&#34; title=&#34;Excerpt of a comparison table for one of the workflows, done in Figjam.&#34; alt=&#34;Excerpt of a comparison table for one of the workflows.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Excerpt of a comparison table for one of the workflows, done in Figjam.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Final output&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;final-output&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#final-output&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;For each product area, I created a spreadsheet with text patterns for both user groups. This provides designers&amp;ndash;and whoever else&amp;ndash;an easy way to compare and contrast text patterns without worrying about visual design.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/BTAudit_excerptview.png&#34; title=&#34;zoomed-out view of a text pattern library created in Excel.&#34; alt=&#34;Zoomed-out view of a text pattern library created in Excel. This particular excerpt follows a user worklow, and each column represents a specific aspect of the worklow. The patterns are broken out by section as designed in the respective form that users use.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/BTAudit_excerptview.png&#34; title=&#34;zoomed-out view of a text pattern library created in Excel.&#34; alt=&#34;Zoomed-out view of a text pattern library created in Excel. This particular excerpt follows a user worklow, and each column represents a specific aspect of the worklow. The patterns are broken out by section as designed in the respective form that users use.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;zoomed-out view of a text pattern library created in Excel.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;To further help the designers easily access all the patterns I created for them, I created a &amp;ldquo;resource helper&amp;rdquo; component in Figma that they can pull into their files. The helper component lists all the text pattern files so they don&amp;rsquo;t have to tab out of Figma to look for it.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/businesstravel/resourcehelper_bt.png&#34; title=&#34;Resource helper component I designed to aggregate all text pattern library files into 1 place&#34; alt=&#34;Resource helper component I designed to aggregate all text pattern library files into 1 place&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/businesstravel/resourcehelper_bt.png&#34; title=&#34;Resource helper component I designed to aggregate all text pattern library files into 1 place&#34; alt=&#34;Resource helper component I designed to aggregate all text pattern library files into 1 place&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Resource helper component I designed to aggregate all text pattern library files into 1 place&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Lessons learned&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;lessons-learned&#34;&gt;&lt;/span&gt;
@@ -243,10 +243,10 @@ Content Designer ⸱ Strategist ⸱ Auditor
     
     <item>
       <title></title>
-      <link>http://localhost:33293/ginamc/portfolio/projects/weddingspot/</link>
+      <link>http://localhost:1313/ginamc/portfolio/projects/weddingspot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:33293/ginamc/portfolio/projects/weddingspot/</guid>
+      <guid>http://localhost:1313/ginamc/portfolio/projects/weddingspot/</guid>
       <description>
         
         
@@ -255,7 +255,7 @@ Cvent — April-May 2022&lt;br&gt;
 Auditor ⸱ Strategist
 &lt;/font&gt;&lt;br&gt;
 &lt;font size=&#34;2&#34;&gt;CONTENT AUDIT&lt;/font&gt;&lt;br&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_LandingPage.jpg&#34; alt=&#34;Wedding Spot home page hero banner. The home page has a rotating carousel of wedding venues. Overlaid on the image is a header saying “Find your perfect Venue” and a search bar below it. Below the search bar is an image caption with information about the spotlighted venue.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_LandingPage.jpg&#34; alt=&#34;Wedding Spot home page hero banner. The home page has a rotating carousel of wedding venues. Overlaid on the image is a header saying “Find your perfect Venue” and a search bar below it. Below the search bar is an image caption with information about the spotlighted venue.&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;Wedding Spot is a platform owned by Cvent. Couples and wedding planners use it to source wedding venues. It also gives vendors high visibility within a niche industry.&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -272,34 +272,34 @@ Auditor ⸱ Strategist
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;What is ORCA?&lt;/strong&gt; It&amp;rsquo;s a methodology within the Object Oriented UX philosophy evangelized by Sophia Prater, and provides a design framework of thinking in objects-first rather than actions-first. &lt;a href=&#34;https://www.ooux.com/what-is-ooux&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more about it at ooux.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CloseUp_Hompage_OOUX.jpg&#34; title=&#34;Audit of Wedding Spot homepage with colored dots that correspond to different phases of the ORCA methodology.&#34; alt=&#34;Audit of Wedding Spot homepage with colored dots that correspond to different phases of the ORCA methodology.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CloseUp_Hompage_OOUX.jpg&#34; title=&#34;Audit of Wedding Spot homepage with colored dots that correspond to different phases of the ORCA methodology.&#34; alt=&#34;Audit of Wedding Spot homepage with colored dots that correspond to different phases of the ORCA methodology.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Audit of Wedding Spot homepage with colored dots that correspond to different phases of the ORCA methodology.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Mapping content types&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mapping-content-types&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mapping-content-types&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Using the Objects (blue) - Relationships (blue) - CTAs (green) - Attributes (pink/yellow) framework, I first analyzed Wedding Spot&amp;rsquo;s public-facing and back-end as both a couple/planner user and venue user. This allowed me to:&lt;ul&gt;&lt;li&gt;Identify content patterns across the product&lt;/li&gt;&lt;li&gt;Group like content types in a coherent way that made sense for the user&lt;/li&gt;&lt;li&gt;Better map a user&amp;rsquo;s workflow and relationships from screen to screen&lt;/li&gt;&lt;/ul&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_OOUXmapping.jpg&#34; title=&#34;Chart mapping different aspects of ORCA. Groupings include objects, calls to action, metadata, and core content.&#34; alt=&#34;Chart mapping different aspects of ORCA.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_OOUXmapping.jpg&#34; title=&#34;Chart mapping different aspects of ORCA. Groupings include objects, calls to action, metadata, and core content.&#34; alt=&#34;Chart mapping different aspects of ORCA.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Chart mapping different aspects of ORCA. Groupings include objects, calls to action, metadata, and core content.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Mapping the narrative flow&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mapping-the-narrative-flow&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mapping-the-narrative-flow&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This may not seem any different from a regular user flow, however, by using the colors from ORCA, we can begin to see how an object relates to other objects, CTAs, and attributes, and how this impacts the overall experience for various user groups.&lt;/p&gt;
 &lt;p&gt;Coupling the user flow with ORCA markers gave us a clearer picture of what a user was engaging with on any given screen, and allowed us to reassess content in a way that emphasized like-object groupings to avoid potential confusion by users. For example, we were able to identify noun objects mixed with CTAs which led us to rethink how that part of the design could be improved to clearly be all noun objects or all CTAs.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_EagleEyeExcerpt.jpg&#34; title=&#34;Eagle-eye view of one piece of the larger audit. This shows workflows from one screen to the next, and now they connect throughout the product.&#34; alt=&#34;Eagle-eye view of one piece of the larger audit. This shows workflows from one screen to the next, and now they connect throughout the product.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_EagleEyeExcerpt.jpg&#34; title=&#34;Eagle-eye view of one piece of the larger audit. This shows workflows from one screen to the next, and now they connect throughout the product.&#34; alt=&#34;Eagle-eye view of one piece of the larger audit. This shows workflows from one screen to the next, and now they connect throughout the product.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Eagle-eye view of one piece of the larger audit. This shows workflows from one screen to the next, and now they connect throughout the product.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_EagleEyeExcerpt_Forms.jpg&#34; title=&#34;Analysis of dropdowns available in the back-end of Wedding Spot&#34; alt=&#34;Analysis of dropdowns available in the back-end of Wedding Spot&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_EagleEyeExcerpt_Forms.jpg&#34; title=&#34;Analysis of dropdowns available in the back-end of Wedding Spot&#34; alt=&#34;Analysis of dropdowns available in the back-end of Wedding Spot&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Analysis of dropdowns available in the back-end of Wedding Spot&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CTAalignmentMap_SRP.jpg&#34; title=&#34;Flow and site map of Wedding Spot to quickly understand how a person moves through the product.&#34; alt=&#34;Flow and site map of Wedding Spot to quickly understand how a person moves through the product.&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CTAalignmentMap_SRP.jpg&#34; title=&#34;Flow and site map of Wedding Spot to quickly understand how a person moves through the product.&#34; alt=&#34;Flow and site map of Wedding Spot to quickly understand how a person moves through the product.&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Flow and site map of Wedding Spot to quickly understand how a person moves through the product.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Competitor audit&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;competitor-audit&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#competitor-audit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;One of the last pieces of the audit was competitor analysis. After auditing Wedding Spot, I did an audit of major competitors and made notes on similarities and differences using the ORCA method. This and the audit combined offered us great insight for drafting enhancements and UX recommendations to improve Wedding Spot in the future.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:33293/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CompetitorAudit.jpg&#34; title=&#34;Competitor audit in Figjam&#34; alt=&#34;Competitor audit in Figjam&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/ginamc/portfolio/images/weddingspot/WS_ContentAudit_CompetitorAudit.jpg&#34; title=&#34;Competitor audit in Figjam&#34; alt=&#34;Competitor audit in Figjam&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Competitor audit in Figjam&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Lessons learned&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;lessons-learned&#34;&gt;&lt;/span&gt;
