@@ -22,7 +22,7 @@ WRITER</font>
 {{< cards cols="3">}}
   {{< card image="/images/convodesign/convodesign_script5.png" link="/projects/conversationdesigntemplate" title="Cvent Assistant" subtitle="Conversation Design ⸱ AI">}}
   {{< card image="/images/businesstravel/cventbt_mainthumb.png" link="/projects/traveltransient/" title="Cvent Travel and Transient" subtitle="Audit ⸱ Terminology Alignment">}}
-  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/vendormarketplace/" title="Cvent Vendor Marketplace" subtitle="Content Design">}}
+  {{< card image="/images/vendormarketplace/VM_LandingPage.jpg" link="/projects/weddingspot/" title="Cvent Wedding Spot" subtitle="Audit">}}
 {{< /cards >}}
 
 ## About
@@ -36,6 +36,7 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
+{{<icon "presentation-chart-line">}} _IAC26, poster presenter, Apr. 2026_<br>
 {{<icon "microphone">}} Cohesive Prompt Engineering for Non-engineers, _Cvent, internal event, Jul. 2025_<br>
 {{<icon "user-group">}} Workshop: Content-first Design, _Cvent, internal event, Dec. 2024_<br>
 {{<icon "microphone">}} The Content Design Style Guide, _Cvent, internal event, Dec. 2024_<br>
