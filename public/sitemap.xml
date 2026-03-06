@@ -10,6 +10,8 @@
   </url><url>
     <loc>http://localhost:1313/ginamc/portfolio/projects/conversationdesigntemplate/</loc>
   </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/glossary/</loc>
+  </url><url>
     <loc>http://localhost:1313/ginamc/portfolio/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/ginamc/portfolio/tags/</loc>
@@ -17,5 +19,11 @@
     <loc>http://localhost:1313/ginamc/portfolio/projects/traveltransient/</loc>
   </url><url>
     <loc>http://localhost:1313/ginamc/portfolio/projects/weddingspot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/glossary/_index.fa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/glossary/_index.zh-cn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ginamc/portfolio/glossary/_index.ja/</loc>
   </url>
 </urlset>

@@ -11,8 +11,8 @@ menu:
     # - name: Pubs and Talks
     #   pageRef: /about#pubs-and-talks
     #   weight: 2
-    # - name: About
-    #   pageRef: /about
+    # - name: Home
+    #   pageRef: /index
     #   weight: 1
     # - name: Search
     #   weight: 4
