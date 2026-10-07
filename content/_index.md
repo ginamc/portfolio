@@ -7,7 +7,7 @@ sidebar:
 ---
 
 # gina cairney
-<font size=5>CONTENT DESIGNER<br>
+<font size=5>CONTENT ARCHITECT<br>
 STRATEGIST<br>
 WRITER</font>
 
