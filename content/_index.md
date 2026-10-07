@@ -36,7 +36,7 @@ My name is Gina and I'm a UX professional. After a decade of working in the nonp
 {{< /cards >}}
 
 ## Pubs and Talks
-{{<icon "chat">}} Manager Capability in Practice: Lessons from Cvent (panel discussant), _Blackstone Career Pathways Summit, Sep. 2026_<br>
+{{<icon "chat-alt">}} Manager Capability in Practice: Lessons from Cvent (panelist), _Blackstone Career Pathways Summit, Sep. 2026_<br>
 {{<icon "presentation-chart-line">}} Using IA to improve enterprise software navigation (poster presentation), _IAC26, Apr. 2026_<br>
 {{<icon "medium">}}[How a Content Designer Collaborates in Figma](https://medium.com/design-bootcamp/how-a-content-designer-collaborates-in-figma-455698cd34a0), _Bootcamp (syndicated), Dec. 2024_<br>
 {{<icon "medium">}}[How a Content Designer Collaborates With a Product Designer](https://medium.com/design-bootcamp/how-a-content-designer-collaborates-with-a-product-designer-a66f09b8473c), _Bootcamp (syndicated), Sep. 2023_<br>
